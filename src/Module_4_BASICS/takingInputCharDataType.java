@@ -10,3 +10,5 @@ public class takingInputCharDataType {
         System.out.println((int)a);
     }
 }
+//Output
+//
